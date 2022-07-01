@@ -1,2 +1,2 @@
 # arduino-motor-android-controller
-App de android para controlar el giro y velocidad de un motor en arduino y enviar comandos. Práctica del curso Desarrollo para dispositivos inteligentes. Universidad Tecnológica de Aguascalientes, IDGS-9-C-2022
+App de android para controlar el giro y velocidad de un motor en Arduino UNO, así como permitir enviar comandos para ver mensajes un pantalla conectada a la placa. Práctica del curso Desarrollo para dispositivos inteligentes. Universidad Tecnológica de Aguascalientes, IDGS-9-C-2022. Se anexa modelo digital en Proteus V-8, el código de Arduino y el código fuente de la aplicación Android.
